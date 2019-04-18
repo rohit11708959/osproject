@@ -2,7 +2,15 @@
 #include<stdio.h>
 int main()
 {
-int p,r, allocation[100][100], max[100][100], need[100][100], available[100],i,j,k,flag[100],x=0,sequence[100],c=0,count;
+int p,r;
+int allocation[100][100];
+int max[100][100];
+int need[100][100];
+int available[100];
+int i,j,k,flag[100];
+int x=0,sequence[100];
+int c=0,count;
+
 printf("Enter the number of process \n");
 scanf("%d",&p);
 printf("Enter the number of resources \n");
