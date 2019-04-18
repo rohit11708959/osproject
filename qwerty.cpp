@@ -1,4 +1,3 @@
-// C++ program to illustrate Banker's Algorithm 
 #include<iostream> 
 using namespace std; 
 
