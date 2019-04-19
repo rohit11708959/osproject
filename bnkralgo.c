@@ -1,4 +1,4 @@
-//Program to implement Banker's algorithm with p processes and r resources.
+//Program to implement Banker's algorithm threads with p processes and r resources.
 #include<stdio.h>
 int main()
 {
